@@ -103,7 +103,8 @@ ADDCOLUMNS(
     "Week Number", WEEKNUM([Date], 2),
     "Day", DAY([Date]),
     "Weekday", FORMAT([Date], "dddd")
-)
+)```
+
 ## Purpose
 
 The Date Dimension enables:
